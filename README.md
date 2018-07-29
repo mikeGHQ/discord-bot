@@ -7,5 +7,5 @@
 - copy the bot token to `bot.js`.
 - add groups/commands
 
-## create commands
-create a group in `bot.js` then create a folder in `/commands` with the same group name to create a new roll create a file in the group folder the file will be something like `/commands/random/dice_roll.js`;
+## create new commands
+create a group in `bot.js` then create a folder in `/commands` with the same group name to create a new command create a file in the group folder the file will be something like `/commands/random/dice_roll.js`;
